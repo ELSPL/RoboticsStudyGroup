@@ -148,6 +148,9 @@ likely help by rebasing and cleaning up the commit history for you. As your deve
 increase, we'll help you learn how to do this.
 
 
+### tesching git
+
+
 ## More Questions?
 If you're stuck somewhere or are interested in being a part of the community in
 other ways, feel free to contact us:
