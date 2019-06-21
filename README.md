@@ -14,7 +14,7 @@
 <!--- 6. No opinions, editorials -->
 
 # Robotics Study Group
-
+[<img src="https://img.shields.io/badge/slack-@elsplworkspace-yellow.svg?logo=slack">](https://elsplworkspace.slack.com/messages/CKHAKGSF8/)
 
 ### Table of Contents
 - [Description](#description)
