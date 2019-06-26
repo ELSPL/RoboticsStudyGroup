@@ -39,7 +39,7 @@ the errors and assumptions that seasoned contributors have glossed over.
 
 The goal is to maintain a diverse community that's pleasant for everyone. Please
 be considerate and respectful of others by following our 
-[code of conduct](). 
+[code of conduct](https://github.com/ELSPL/RoboticsStudyGroup/blob/master/.github/CODE_OF_CONDUCT.md). 
 
 Other items:
 
@@ -56,7 +56,7 @@ Other items:
 ## Usage questions
 
 The best place to submit questions about how to get started or any query is via the
-[Slack]() channel.
+[Slack](https://elsplworkspace.slack.com/messages/CKHAKGSF8/) channel.
 Usage question in the issue tracker will probably go unanswered.
 
 ## Reporting issues
@@ -76,7 +76,7 @@ requesting something you think is missing.
 
 First of all, thanks for your interest in contributing!
 
-Refer to git_workflow.md for branching guide.
+Refer to [GIT_WORKFLOW.md](https://github.com/ELSPL/RoboticsStudyGroup/blob/master/.github/CODE_OF_CONDUCT.md) for branching guide.
 
 ### Coding Style, Standards and Convention
 #### C++ coding style
@@ -128,4 +128,4 @@ increase, we'll help you learn how to do this.
 ## More Questions?
 If you're stuck somewhere or are interested in being a part of the community in
 other ways, feel free to contact us:
-* [Slack Channel]()
+* [Slack Channel](https://elsplworkspace.slack.com/messages/CKHAKGSF8/)

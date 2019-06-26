@@ -42,7 +42,7 @@ Need help? Found an issue? Have a feature request? Checkout our [support page](h
 - Lab related material: https://github.com/ELSPL/RoboticsStudyGroup/tree/master/Docs
 - Wiki: https://github.com/ELSPL/RoboticsStudyGroup/wiki
 - Issue tracker: https://github.com/ELSPL/RoboticsStudyGroup/issues
-- Slack chat room: 
+- Slack chat room: https://elsplworkspace.slack.com/messages/CKHAKGSF8/
 
 ## Code of Conduct
 We want everyone to feel welcome to contribute to our study group and participate in discussions. In that
@@ -63,6 +63,7 @@ For more information, please read the see the [contributing guide](https://githu
 * **Git**
   * [Markdown Document Guidelines](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   * [Git and Gitflow Cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)
+  * [Git Flow Model](https://nvie.com/posts/a-successful-git-branching-model/)
 
   
 [Back To The Top](#robotics-study-group)
