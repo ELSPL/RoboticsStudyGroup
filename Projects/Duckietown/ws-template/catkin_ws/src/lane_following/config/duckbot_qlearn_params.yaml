@@ -1,0 +1,41 @@
+duckbot: #namespace
+    
+    #qlearn parameters
+    alpha: 1.0
+    gamma: 0.7
+    epsilon: 0.9
+    epsilon_discount: 0.999
+    nepisodes: 500
+    nsteps: 500
+    number_splits: 10 #set to change the number of state splits for the continuous problem and also the number of env_variable splits
+    
+    
+    # Task Environment parameters
+    running_step: 0.06 # amount of time the control will be executed
+    pos_step: 0.016     # increment in position for each command
+    wait_time: 0.1 # Time to wait in the reset phases
+
+    n_actions: 3 # We have 6 actions, ForwardNormal, ForwardFast, StraffLeft, StraffLeftSlow, StraffRight, StraffRightSlow
+    n_observations: 1 # We have 2 different observations
+
+    speed_step: 1.0 # Time to wait in the reset phases
+
+    linear_forward_speed: 1.5 # Spawned for going fowards
+    linear_turn_speed: 0.5 # Linear speed when turning
+    angular_speed: 0.5 # Angular speed when turning Left or Right
+    init_linear_forward_speed: 0.0 # Initial linear speed in which we start each episode
+    init_linear_turn_speed: 0.0 # Initial angular speed in shich we start each episode
+    
+    # How many meters ahead camera-stream readings we use for detection, the smaller the less faster processing
+    look_ahead_distance: 30
+    
+    cur_lane_offset: 1.51
+    max_lane_offset: 1.6 # Value considered Ok, no wall
+    safe_lane_offset: 0.75 # Value considered there is an obstacle or crashed
+    
+    follow_lane_reward: 100 # Points Given to go follow lane
+    veer_off_reward: -10
+    end_episode_points: 200 # Points given when ending an episode
+    
+    
+

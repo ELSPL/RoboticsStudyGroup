@@ -1,0 +1,6 @@
+<launch>
+    <!-- This version uses the openai_ros environments -->
+    <rosparam command="load" file="$(find lane_following)/config/duckbot_qlearn_params.yaml" />
+    <!-- Launch the training system -->
+    <node pkg="lane_following" name="duckbot_openai_qlearn" type="start_qlearn_lane_follow.py" output="screen"/>
+</launch>
